@@ -201,7 +201,7 @@ def display_raw_data(df):
             ask = input('Next 5 raws?')
             if ask.lower() != 'yes':
                 break
-                
+ ##footer               
 def main():
     while True:
         city, month, day = get_filters()
@@ -220,3 +220,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+##footer
