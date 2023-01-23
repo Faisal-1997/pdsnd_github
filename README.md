@@ -1,21 +1,30 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+20/1/2023
 
 ### Project Title
-Replace the Project Title
+Bikeshare by python and i pushed the projrct to my reprository in github in the project the is csv files i ignored them.
 
 ### Description
-Describe what your project is about and what it does
+I analyzed three city profiles to get useful information to facilitate decision making for the company
 
 ### Files used
-Include the files used
+-bikeshare.py
+-README.md
+-chicago.csv
+new york.csv
+wachington.csv
+.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://stackoverflow.com/
+https://peps.python.org/pep-0008/
 
 ### branch
-Switched to branch 'documentation'
+there is 3 branches :
+1-documentation
+2-master
+3- refactoring
 ###
 note end in bikeshare
